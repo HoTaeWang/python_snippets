@@ -18,6 +18,16 @@
     image.size:(512, 512)
     image.mode:RGB
 
+    from PIL import ImageOps
+    image_grey = ImageOps.grayscale(image)
+    image_grey.mode:L
+    image_grey.save("lenna.jpg")
+
+    image_grey = Image.open("babara.jpg")
+    image_grey.mode:L
+    image_grey.quantize(2)
+
+
 ```
 
 
