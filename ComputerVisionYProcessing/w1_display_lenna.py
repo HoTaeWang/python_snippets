@@ -1,7 +1,7 @@
 from PIL import Image
 import matplotlib.pyplot as plt
 
-image = Image.open("lenna.jpg")
+image = Image.open("lenna.png")
 plt.imshow(image)
 
 print("Image format: ", image.format)
