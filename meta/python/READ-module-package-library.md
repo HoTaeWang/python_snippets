@@ -33,8 +33,10 @@ The code for importing a sub-package is:
 ```
 To make it even more convenient, it is often imported using an alias. So more commonly, you will come across code such as:
 
-'''
+```
     import matplotlib.pyplot as plt
-'''
+```
 
 You could use any other word as an alias instead of plt, but it is a common convention.
+You can explore the directory structure of such packages usually by searching for the module index of that package.
+
