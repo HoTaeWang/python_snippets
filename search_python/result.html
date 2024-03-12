@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Result</title>
+</head>
+<body>
+    <h1>Search Result</h1>
+    <div>
+        {% for image in images %}
+        <img src="{{ image }}" alt="Person Image">
+        {% endfor %}
+    </div>
+</body>
+</html>
