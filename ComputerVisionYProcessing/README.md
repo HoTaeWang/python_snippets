@@ -30,4 +30,10 @@
 
 ```
 
+## Useful URLs
+
+* How to concatenate images with Python, Pillow
+```
+	https://note.nkmk.me/en/python-pillow-concat-images/
+```
 
