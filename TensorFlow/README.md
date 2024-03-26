@@ -19,4 +19,10 @@ Reference
 	* Convolutional Neural Networks: https://bit.ly/2UGa7uH
 
 
-
+### Key factors For the Convolutional Neural Network
+* Filter (Kernel, it depends on the paper)
+* Padding
+* Valid & Same Convolution
+  -Valid: (nxn)  *  (fxf)  ->  (n-f+1 x n-f+1)
+  -Same: Pad so that output size is the same as the input size.
+   (n+2p-f+1 x n+2p-f+1) , p = (f-1)/2
