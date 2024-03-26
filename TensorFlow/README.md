@@ -26,3 +26,14 @@ Reference
   -Valid: (nxn)  *  (fxf)  ->  (n-f+1 x n-f+1)
   -Same: Pad so that output size is the same as the input size.
    (n+2p-f+1 x n+2p-f+1) , p = (f-1)/2
+
+* Strided Convolution
+  - Summary
+    n x n image   ->  f x f filter
+    padding p         stride s
+
+
+    ([ (n+2p-f)/s  +1 ]  x [ (n+2p-f)/s +1 ] )
+
+* Cross-correlation (Convolution in math textbook)    vs. Convolution (Deep learning, not use the mirror index horizontally/vertically)
+
