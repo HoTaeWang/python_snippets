@@ -8,3 +8,9 @@ snippets for the class
 3) Select data
 4) preprocessing Data
 5) Transforming Data
+
+
+## Hackerton Earth
+https://www.hackerearth.com/practice/
+
+
