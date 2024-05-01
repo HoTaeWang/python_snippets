@@ -37,3 +37,10 @@ Reference
 
 * Cross-correlation (Convolution in math textbook)    vs. Convolution (Deep learning, not use the mirror index horizontally/vertically)
 
+2. TensorFlow with Convolutional Neural Network
+* Binary Classfication with Andrew NG
+https://www.youtube.com/watch?v=eqEc66RFY0I&t=6s 
+
+* Gradient Descent in Practice with Andrew NG
+https://www.youtube.com/watch?v=zLRB4oupj6g
+
