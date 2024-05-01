@@ -44,3 +44,5 @@ https://www.youtube.com/watch?v=eqEc66RFY0I&t=6s
 * Gradient Descent in Practice with Andrew NG
 https://www.youtube.com/watch?v=zLRB4oupj6g
 
+* Binary Classification
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C1/W4/ungraded_labs/C1_W4_Lab_1_image_generator_no_validation.ipynb
