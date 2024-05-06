@@ -14,3 +14,7 @@ snippets for the class
 https://www.hackerearth.com/practice/
 
 
+## Machine Learning Foundational courses
+* Google Courses
+https://developers.google.com/machine-learning/crash-course/descending-into-ml/video-lecture 
+
