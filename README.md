@@ -18,3 +18,6 @@ https://www.hackerearth.com/practice/
 * Google Courses
 https://developers.google.com/machine-learning/crash-course/descending-into-ml/video-lecture 
 
+## Optimization Algorithum 
+* RMSprop optimization (Stochastic Gradient Descent)
+https://en.wikipedia.org/wiki/Stochastic_gradient_descent#RMSProp
